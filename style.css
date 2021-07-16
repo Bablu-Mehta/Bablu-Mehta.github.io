@@ -55,7 +55,7 @@ nav ul li a{
 .model{
 	height:530px;
 	position:absolute;
-	bottom:100px;
+	bottom:85px;
 	left:75%;
 	transform: translateX(-75%);
 }
